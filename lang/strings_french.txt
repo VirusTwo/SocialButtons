@@ -1,0 +1,5 @@
+<?php
+$s_plugin_social_title = 'SocialMediaButtons';
+$s_plugin_social_description = 'Permet la redirection sur les différents réseaux sociaux';
+$s_plugin_social_config = 'Configuration des différents réseaux sociaux :';
+
